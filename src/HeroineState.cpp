@@ -2,6 +2,7 @@
 #include <thread>
 #include"HeroineState.h"
 
+
 void HeroineState::Credit()
 {
 	std::cout << "credit\n";
